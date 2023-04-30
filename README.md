@@ -24,8 +24,7 @@ Dislikes:\
 💔 Cookie- & pay walls\
 💔 Social Media\
 💔 HTTP\
-💔 (´;︵;`)\
-\
+💔 (´;︵;`)  
 
 <!---
 - Last updated: 30 apr 2023 
